@@ -1,1 +1,34 @@
+# ---- Compiled object and binary files ----
+*.o
+*.out
+*.a
+*.so
 a.out
+main
+minimat
+
+# ---- Temporary / build artifacts ----
+*.exe
+*.log
+*.tmp
+*.bak
+*.endpointdlp
+
+# ---- Editor / OS clutter ----
+*~
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# ---- IDE project folders ----
+.vscode/
+.idea/
+
+# ---- Git merge conflict backups ----
+*.orig
+
+# ---- Optional: ignore test or build folders ----
+test_*
+
