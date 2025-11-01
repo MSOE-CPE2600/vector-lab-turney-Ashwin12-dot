@@ -7,17 +7,17 @@ This is a program which is a basic vector calculator, it also features dynamic m
 ## Available Commands
 
 ### Program commands
-list
-clear
-save (.csv filename)
-load (.csv filename)
-
+- list (lists the vectors you currently have in memory)
+- clear (clears vectors in memory)
+- save (.csv filename)
+- load (.csv filename)
+- quit (exits the program!)
 ## Vector operations
 operations: 
-x + y 
-b - y 
-c X y 
-b . a 
+- "x + y" 
+- "b - y"
+- "c X y" 
+- "b . a" 
 
 
 ### Build Instructions
